@@ -42,7 +42,6 @@ const curr = ref('')
 
 <style scoped lang="scss">
 .currencies {
-
    height: 40vh;
    width: 50%;
    background-color: #fff;
